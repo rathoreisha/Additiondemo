@@ -9,6 +9,8 @@ public class Three {
 		System.out.println(d);
 		System.out.println("Welcome to git");
 		
+		System.out.println("**welcome to Github***");
+		
 	}
 
 
