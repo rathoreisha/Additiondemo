@@ -7,6 +7,7 @@ public class Three {
 		int c=40;
 		int d=a+b+c;
 		System.out.println(d);
+		System.out.println("Welcome to git");
 		
 	}
 
